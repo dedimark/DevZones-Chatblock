@@ -1,0 +1,20 @@
+"Phrases"
+{
+	"achatblock"
+	{
+		"en" "General chat usage is disabled in your zone."
+		"tr" "Bölgenizde genel sohbet kullanımı devre dışı."
+	}
+	
+	"tchatblock"
+	{
+		"en" "Team chat usage is disabled in your zone."
+		"tr" "Bölgenizde takım sohbeti kullanımı devre dışı."
+	}
+	
+	"bchatblock"
+	{
+		"en" "Chat usage is disabled in your zone."
+		"tr" "Bölgenizde sohbet kullanımı devre dışı."
+	}
+} 
